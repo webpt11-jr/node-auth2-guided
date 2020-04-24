@@ -1,4 +1,4 @@
-# Web Auth III Guided Project
+# Web Auth III Guided Project #
 
 Guided project for **Web Auth III** Module.
 
